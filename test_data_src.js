@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\UFT\\REP_UFT\\PI-v4.0.3-Combined\\Res300',namePairs:[]}]};
